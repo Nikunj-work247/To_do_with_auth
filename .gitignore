@@ -1,3 +1,20 @@
+# Python
 venv/
 __pycache__/
 *.pyc
+
+# Database
+todo.db
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Docker practice files
+Dockerfile
+compose.yaml
+.dockerignore
+code.py
+code2.py
+code3.py
+code4.pycaching.py
